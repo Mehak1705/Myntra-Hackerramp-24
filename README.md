@@ -14,5 +14,4 @@ Users create an account and upload photos of their outfits. Other users can brow
 <img width="1325" alt="Screenshot 2024-07-31 at 12 30 26 AM" src="https://github.com/user-attachments/assets/9ae4f741-a3b9-4d87-8a5b-286dd3d49e3a">
 <img width="1225" alt="Screenshot 2024-07-30 at 11 46 56 PM" src="https://github.com/user-attachments/assets/a31659da-c3b9-459f-9d90-4dd37251c7cf">
 
-
-
+<img width="1440" alt="Screenshot 2024-07-31 at 12 42 38 AM" src="https://github.com/user-attachments/assets/915e91e0-64db-413d-8e85-fd51b444fc47">
